@@ -1,2 +1,2 @@
 # CDs-VAE 
-My first VAE
+My first VAE!
